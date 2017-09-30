@@ -1,6 +1,6 @@
 
-const c0 = '0'.charCodeAt(0);
-const c9 = '9'.charCodeAt(0);
+const c0 = '0'.codePointAt(0);
+const c9 = '9'.codePointAt(0);
 
 const decodeString = s => {
     let end = s.length;
@@ -12,7 +12,7 @@ const decodeString = s => {
         let num = '';
         
         while (index < end) {
-            const ch = s[index].charCodeAt(0);
+            const ch = s[index].codePointAt(0);
             
             if (ch >= c0 && ch <= c9) {
                 num += s[index];

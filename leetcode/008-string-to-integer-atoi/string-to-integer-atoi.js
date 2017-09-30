@@ -26,10 +26,10 @@ const myAtoi = str => {
         return 0;
     }
 
-    const nullcode = '0'.charCodeAt(0);
+    const nullcode = '0'.codePointAt(0);
 
     // picking first char
-    let curchar = str[i].charCodeAt(0) - nullcode;
+    let curchar = str[i].codePointAt(0) - nullcode;
 
     while(curchar >= 0 && curchar <= 9) {
         result = result * 10 + curchar;
@@ -40,7 +40,7 @@ const myAtoi = str => {
             break;
         }
 
-        curchar = str[i].charCodeAt(0) - nullcode;
+        curchar = str[i].codePointAt(0) - nullcode;
     }
 
     result = sign * result;

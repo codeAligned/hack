@@ -1,8 +1,8 @@
 const isNumber = function(s) {
     s = s.trim();
 
-    const char0 = '0'.charCodeAt(0);
-    const char9 = '9'.charCodeAt(0);
+    const char0 = '0'.codePointAt(0);
+    const char9 = '9'.codePointAt(0);
 
     let isNumber = false;
     let isNumberAfterE = false;
@@ -10,7 +10,7 @@ const isNumber = function(s) {
     let hasE = false;
 
     for (let i = 0; i < s.length; i++) {
-        const c = s[i].charCodeAt(0);
+        const c = s[i].codePointAt(0);
 
         if (c >= char0 && c <= char9) {
             isNumber = true;

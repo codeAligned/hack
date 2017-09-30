@@ -1,11 +1,11 @@
 
 const detectCapitalUse = word => {
-    const A = 'A'.charCodeAt(0);
+    const A = 'A'.codePointAt(0);
 
-    const Z = 'Z'.charCodeAt(0);
+    const Z = 'Z'.codePointAt(0);
 
     const isCapital = c => {
-        return c.charCodeAt(0) >= A && c.charCodeAt(0) <= Z;
+        return c.codePointAt(0) >= A && c.codePointAt(0) <= Z;
     }
 
     let noncapitals = 0;

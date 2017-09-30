@@ -3,10 +3,10 @@ const titleToNumber = s => {
     let k = 1;
     let result = 0;
     
-    let idxA = 'A'.charCodeAt(0) - 1;
+    let idxA = 'A'.codePointAt(0) - 1;
     
     for (let i = s.length - 1; i >= 0; i--) {
-        result += k * (s[i].charCodeAt(0) - idxA);
+        result += k * (s[i].codePointAt(0) - idxA);
         k = k * 26;
     }
     

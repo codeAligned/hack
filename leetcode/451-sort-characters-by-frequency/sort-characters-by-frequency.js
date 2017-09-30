@@ -9,6 +9,6 @@ const frequencySort = s => {
 
     return s.split('').sort((a, b) => {
         const diff = freq[b] - freq[a];
-        return !diff ? (b.charCodeAt(0) - a.charCodeAt(0)) : diff;
+        return !diff ? (b.codePointAt(0) - a.codePointAt(0)) : diff;
     }).join('');
 }
