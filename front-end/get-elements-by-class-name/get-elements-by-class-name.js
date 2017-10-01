@@ -4,7 +4,7 @@ function getElementsByClassName(className, root) {
     // this is a very simple check if element is defined/not null or
     // if it's a DOM Element
     if (!root || !root.nodeType) {
-        root = document.body;
+        root = document.documentElement;
     }
 
     function f(node) {
