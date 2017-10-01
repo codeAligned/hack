@@ -8,7 +8,7 @@ function getElementsByClassName(className, root) {
     }
 
     function f(node) {
-        if (node.nodeType === Node.ELEMENT_NODE && node.classList.contains(className)) {
+        if (node.classList && node.classList.contains(className)) {
             result.push(node);
         }
 
