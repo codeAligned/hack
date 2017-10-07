@@ -9,7 +9,7 @@ const detectCycle = head => {
         if (slow === fast) {
             let start = head;
 
-            while(start != slow) {
+            while(start !== slow) {
                 start = start.next;
                 slow = slow.next;
             }
