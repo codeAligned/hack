@@ -1,4 +1,3 @@
-
 class MinStack {
     constructor() {
         this.stack = [];
