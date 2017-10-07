@@ -1,9 +1,8 @@
-
 const isPalindrome = head => {
     const reverse = node => {
         let prev = null;
 
-        while(node) {
+        while (node) {
             const tmp = node.next;
             node.next = prev;
             prev = node;
@@ -11,31 +10,27 @@ const isPalindrome = head => {
         }
 
         return prev;
-    }
+    };
 
-    let mid = head;
+    let slow = head;
     let fast = head;
 
-    while(fast) {
-        if (!fast.next) {
-            break;
-        }
-
-        mid = mid.next;
+    while (fast && fast.next) {
+        slow = slow.next;
         fast = fast.next.next;
     }
 
-    let n = head;
-    let rn = reverse(mid);
+    let start = head;
+    let reversed = reverse(slow);
 
-    while(rn) {
-        if (n.val !== rn.val) {
+    while (reversed) {
+        if (reversed.val !== start.val) {
             return false;
         }
 
-        n = n.next;
-        rn = rn.next;
+        start = start.next;
+        reversed = reversed.next;
     }
 
     return true;
-}
+};
