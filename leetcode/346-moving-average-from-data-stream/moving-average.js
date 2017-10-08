@@ -22,6 +22,5 @@ class MovingAverage {
         return this.queue.reduce((prev, next) => {
             return prev + next;
         }, 0) / this.queue.length;
-
     }
 }
