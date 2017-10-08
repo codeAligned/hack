@@ -8,7 +8,7 @@ const inorderSuccessor = (root, p) => {
         return null;
     }
 
-    if (root.val <= p.val) {
+    if (p.val >= root.val) {
         return inorderSuccessor(root.right, p);
     } else {
         const left = inorderSuccessor(root.left, p);
