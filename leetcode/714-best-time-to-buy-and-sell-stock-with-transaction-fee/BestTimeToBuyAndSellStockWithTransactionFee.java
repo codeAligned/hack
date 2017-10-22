@@ -1,4 +1,4 @@
-class Solution {
+class BestTimeToBuyAndSellStockWithTransactionFee {
     public int maxProfit(int[] prices, int fee) {
         int sell = 0;
         int buy = -prices[0];

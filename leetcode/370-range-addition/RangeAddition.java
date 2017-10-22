@@ -1,4 +1,4 @@
-class Solution {
+class RangeAddition {
     public int[] getModifiedArray(int length, int[][] updates) {
         int[] arr = new int[length];
 
