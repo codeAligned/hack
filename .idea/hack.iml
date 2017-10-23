@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="Go" enabled="true" />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/714-best-time-to-buy-and-sell-stock-with-transaction-fee" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/346-moving-average-from-data-stream" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/370-range-addition" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/359-logger-rate-limiter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/713-subarray-product-less-than-k" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/712-minimum-ascii-delete-sum-for-two-strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/583-delete-operation-for-two-strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/413-arithmetic-slices" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/715-range-module" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/506-relative-ranks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/077-combinations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/501-find-mode-in-binary-search-tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/212-word-search-ii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/367-valid-perfect-square" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/069-sqrt-x" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hackerrank/algorithms/warmup" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
