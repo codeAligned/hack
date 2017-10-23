@@ -8,7 +8,7 @@ public class MigratoryBirds {
 
         int n = in.nextInt();
 
-        int maxCount = 0;
+        int maxCount = Integer.MIN_VALUE;
         int maxValue = 0;
 
         Map<Integer, Integer> counts = new HashMap<>();
@@ -20,9 +20,13 @@ public class MigratoryBirds {
 
             count = count == null ? 1 : count + 1;
 
-            if (count > maxCount) {
+            if (count >= maxCount) {
+                if (count > maxCount) {
+                    maxValue = tmp;
+                } else if (count == maxCount) {
+                    maxValue = Math.min(tmp, maxValue);
+                }
                 maxCount = count;
-                maxValue = tmp;
             }
 
             counts.put(tmp, count);
