@@ -16,7 +16,7 @@ public class ReverseWordsInAString {
         return new String(chars).substring(0, j);
     }
 
-    public void reverseCharArray(char[] chars, int begin, int end) {
+    private void reverseCharArray(char[] chars, int begin, int end) {
         while (begin < end) {
             char tmp = chars[begin];
             chars[begin] = chars[end];
@@ -47,10 +47,5 @@ public class ReverseWordsInAString {
         }
 
         return new String(chars);
-    }
-
-    public static void main(String[] args) {
-        ReverseWordsInAString reverseWordsInAString = new ReverseWordsInAString();
-        System.out.println(reverseWordsInAString.reverseWords("haha    hihi    privet"));
     }
 }
