@@ -22,6 +22,7 @@
       <sourceFolder url="file://$MODULE_DIR$/hackerrank/algorithms/warmup" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hackerrank/algorithms/implementation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/362-design-hit-counter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/526-beautiful-arrangement" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
