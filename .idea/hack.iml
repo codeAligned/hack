@@ -24,6 +24,7 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/362-design-hit-counter" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/526-beautiful-arrangement" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/151-reverse-words-in-a-string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/186-reverse-words-in-a-string-ii" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
