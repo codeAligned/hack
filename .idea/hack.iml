@@ -28,6 +28,8 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/543-diameter-of-binary-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hackerrank/algorithms/strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/660-remove-9" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hackerearth/october-circuits-17/card-games" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hackerearth/october-circuits-17/polynomial-sign" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
