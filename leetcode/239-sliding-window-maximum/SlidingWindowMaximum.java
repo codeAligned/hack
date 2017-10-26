@@ -1,6 +1,5 @@
 import java.util.ArrayDeque;
 import java.util.Deque;
-import java.util.Iterator;
 
 public class SlidingWindowMaximum {
     public int[] maxSlidingWindow(int[] nums, int k) {
@@ -20,12 +19,8 @@ public class SlidingWindowMaximum {
                 deque.poll();
             }
 
-            Iterator<Integer> iterator = deque.iterator();
-
-            while (iterator.hasNext()) {
-                if (nums[iterator.next()] < nums[i]) {
-                    iterator.remove();
-                }
+            while(!deque.isEmpty() && nums[deque.peekLast()] < nums[i]) {
+                deque.pollLast();
             }
 
             deque.offer(i);
