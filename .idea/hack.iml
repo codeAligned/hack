@@ -37,6 +37,7 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/172-factorial-trailing-zeroes" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/239-sliding-window-maximum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/508-most-frequent-subtree-sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/495-teemo-attacking" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
