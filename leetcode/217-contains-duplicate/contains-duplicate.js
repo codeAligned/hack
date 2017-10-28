@@ -1,4 +1,3 @@
-
 const containsDuplicate = nums => {
     if (!nums || !Array.isArray(nums) || !nums.length) {
         return false;
