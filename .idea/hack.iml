@@ -43,6 +43,7 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/260-single-number-iii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/219-contains-duplicate-ii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/268-missing-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/028-implement-strstr" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
