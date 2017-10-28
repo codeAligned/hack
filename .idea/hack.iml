@@ -39,6 +39,9 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/508-most-frequent-subtree-sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/495-teemo-attacking" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/245-shortest-word-distance-ii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/225-implement-stack-using-queues" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/260-single-number-iii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/219-contains-duplicate-ii" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
