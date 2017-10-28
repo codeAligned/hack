@@ -45,6 +45,7 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/268-missing-number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/028-implement-strstr" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/189-rotate-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/170-two-sum-iii-data-structure-design" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
