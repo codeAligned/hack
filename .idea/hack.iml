@@ -47,6 +47,7 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/189-rotate-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/170-two-sum-iii-data-structure-design" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/168-excel-sheet-column-title" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/405-convert-a-number-to-hexadecimal" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
