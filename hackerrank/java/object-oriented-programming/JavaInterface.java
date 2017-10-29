@@ -1,26 +1,26 @@
 import java.util.Scanner;
 import java.util.stream.IntStream;
 
-interface AdvancedArithmetic{
-    int divisor_sum(int n);
-}
-
-class MyCalculator implements AdvancedArithmetic {
-    @Override
-    public int divisor_sum(int n) {
-        int result = 0;
-
-        for (int i = 1; i <= n / 2; i++) {
-            if (n % i == 0) {
-                result += i;
-            }
-        }
-
-        return result + n;
-    }
-}
-
 public class JavaInterface {
+    interface AdvancedArithmetic{
+        int divisor_sum(int n);
+    }
+
+    static class MyCalculator implements AdvancedArithmetic {
+        @Override
+        public int divisor_sum(int n) {
+            int result = 0;
+
+            for (int i = 1; i <= n / 2; i++) {
+                if (n % i == 0) {
+                    result += i;
+                }
+            }
+
+            return result + n;
+        }
+    }
+
     public static void main(String []args){
         MyCalculator my_calculator = new MyCalculator();
 
