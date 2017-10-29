@@ -1,7 +1,7 @@
 import java.util.BitSet;
 import java.util.Scanner;
 
-public class JavaBitset {
+public class JavaBitSet {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
