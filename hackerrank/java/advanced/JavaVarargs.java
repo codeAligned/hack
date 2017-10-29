@@ -23,7 +23,7 @@ public class JavaVarargs {
                 }
             }
 
-            stringBuilder.append("=" + sum);
+            stringBuilder.append('=').append(sum);
 
             System.out.println(stringBuilder.toString());
         }

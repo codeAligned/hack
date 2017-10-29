@@ -57,6 +57,7 @@
       <sourceFolder url="file://$MODULE_DIR$/hackerrank/java/data-structures" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hackerrank/java/object-oriented-programming" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hackerrank/java/exception-handling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hackerrank/java/advanced" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
