@@ -49,6 +49,7 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/168-excel-sheet-column-title" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/405-convert-a-number-to-hexadecimal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/507-perfect-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/414-third-maximum-number" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
