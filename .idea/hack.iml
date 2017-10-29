@@ -50,6 +50,7 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/405-convert-a-number-to-hexadecimal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/507-perfect-number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/414-third-maximum-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/628-maximum-product-of-three-numbers" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
