@@ -64,6 +64,10 @@
       <sourceFolder url="file://$MODULE_DIR$/hackerrank/java/exception-handling" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hackerrank/java/advanced" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hackerearth/practice-onboarding" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hackerearth/basic-programming/input-output" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hackerearth/basic-programming/implementation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hackerearth/basic-programming/bit-manipulation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hackerearth/basic-programming/recursion-and-backtracking" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
