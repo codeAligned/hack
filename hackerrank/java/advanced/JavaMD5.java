@@ -13,6 +13,6 @@ public class JavaMD5 {
 
         messageDigest.update(string.getBytes());
 
-        System.out.println(DatatypeConverter.printHexBinary(messageDigest.digest()).toLowerCase());
+        System.out.println(String.format("%064x", new java.math.BigInteger(1, messageDigest.digest())));
     }
 }
