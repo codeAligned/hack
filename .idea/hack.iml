@@ -68,6 +68,7 @@
       <sourceFolder url="file://$MODULE_DIR$/hackerearth/basic-programming/implementation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hackerearth/basic-programming/bit-manipulation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hackerearth/basic-programming/recursion-and-backtracking" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/198-house-robber" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
