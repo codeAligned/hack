@@ -12,9 +12,7 @@ public class KDiffPairsInAnArray {
         int result = 0;
 
         for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            if (k > 0 && map.get(entry.getKey() + k) != null) {
-                result++;
-            } else if (k == 0 && entry.getValue() >= 2) {
+            if ((k > 0 && map.get(entry.getKey() + k) != null) || (k == 0 && entry.getValue() >= 2)) {
                 result++;
             }
         }
