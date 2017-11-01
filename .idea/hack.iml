@@ -70,6 +70,7 @@
       <sourceFolder url="file://$MODULE_DIR$/hackerearth/basic-programming/recursion-and-backtracking" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/198-house-robber" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/026-remove-duplicates-from-sorted-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/717-1-bit-and-2-bit-characters" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
