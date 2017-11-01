@@ -76,6 +76,7 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/443-string-compression" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/661-image-smoother" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/551-student-attendance-record-i" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/680-valid-palindrome-ii" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
