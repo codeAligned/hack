@@ -74,6 +74,7 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/256-paint-house" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/532-k-diff-pairs-in-an-array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/443-string-compression" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/661-image-smoother" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
