@@ -80,6 +80,7 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/447-number-of-boomerangs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/401-binary-watch" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/350-intersection-of-two-arrays-ii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/594-longest-harmonious-subsequence" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
