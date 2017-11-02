@@ -83,6 +83,7 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/594-longest-harmonious-subsequence" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/645-set-mismatch" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/633-sum-of-square-numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/408-valid-word-abbreviation" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
