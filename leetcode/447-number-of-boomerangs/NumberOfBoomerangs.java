@@ -22,9 +22,7 @@ public class NumberOfBoomerangs {
             }
 
             for (int value : map.values()) {
-                if (value > 1) {
-                    result += value * (value - 1);
-                }
+                result += value * (value - 1);
             }
         }
 
