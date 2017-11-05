@@ -87,7 +87,9 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/458-poor-pigs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/434-number-of-segments-in-a-string" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/720-longest-word-in-dictionary" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/hackerrank/tutorials/cracking-the-coding-interview" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hackerrank/tutorials/cracking-the-coding-interview/algorithms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hackerrank/tutorials/cracking-the-coding-interview/data-structures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hackerrank/tutorials/cracking-the-coding-interview/techniques-concepts" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
