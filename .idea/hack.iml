@@ -85,6 +85,7 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/633-sum-of-square-numbers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/408-valid-word-abbreviation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/458-poor-pigs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/434-number-of-segments-in-a-string" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
