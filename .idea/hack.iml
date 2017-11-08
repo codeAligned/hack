@@ -91,6 +91,7 @@
       <sourceFolder url="file://$MODULE_DIR$/hackerrank/tutorials/cracking-the-coding-interview/data-structures" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hackerrank/tutorials/cracking-the-coding-interview/techniques-concepts" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/388-longest-absolute-file-path" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/681-next-closest-time" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
