@@ -93,6 +93,7 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/388-longest-absolute-file-path" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/681-next-closest-time" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/667-beautiful-arrangement-ii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/676-implement-magic-dictionary" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
