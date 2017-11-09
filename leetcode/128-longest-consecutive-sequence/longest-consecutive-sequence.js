@@ -1,4 +1,3 @@
-
 const longestConsecutive = nums => {
     const s = new Set(nums);
     let max = 0;
@@ -25,4 +24,4 @@ const longestConsecutive = nums => {
     }
     
     return max;
-}
+};
