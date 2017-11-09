@@ -30,11 +30,9 @@ public class MagicDictionary {
                 }
 
                 node = node.children[index];
-
-                if (i == n - 1) {
-                    node.isWord = true;
-                }
             }
+
+            node.isWord = true;
         }
     }
 
