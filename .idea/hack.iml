@@ -97,6 +97,7 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/004-median-of-two-sorted-arrays" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/042-trapping-rain-water" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/128-longest-consecutive-sequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/228-summary-ranges" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
