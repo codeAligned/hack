@@ -30,6 +30,8 @@ public class TriesContacts {
             if (op.equals("add")) {
                 TrieNode node = root;
 
+                root.wordsCount++;
+
                 for (int j = 0; j < l; j++) {
                     char ch = word.charAt(j);
 
