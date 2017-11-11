@@ -105,6 +105,7 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/437-path-sum-iii" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/101-symmetric-tree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/692-top-k-frequent-words" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/347-top-k-frequent-elements" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
