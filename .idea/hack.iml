@@ -100,6 +100,7 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/228-summary-ranges" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/336-palindrome-pairs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/604-design-compressed-string-iterator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/348-design-tic-tac-toe" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
