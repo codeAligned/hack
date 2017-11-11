@@ -102,6 +102,7 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/604-design-compressed-string-iterator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/348-design-tic-tac-toe" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/581-shortest-unsorted-continuous-subarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/437-path-sum-iii" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
