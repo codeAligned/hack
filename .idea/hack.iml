@@ -107,6 +107,7 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/692-top-k-frequent-words" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/347-top-k-frequent-elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/295-find-median-from-data-stream" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/codefights/interview-practice/hash-tables/possible-sums" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
