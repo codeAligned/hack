@@ -114,6 +114,7 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/724-find-pivot-index" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/716-max-stack" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/328-odd-even-linked-list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/179-largest-number" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
