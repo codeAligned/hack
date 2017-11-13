@@ -109,6 +109,8 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/295-find-median-from-data-stream" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/codefights/interview-practice/hash-tables/possible-sums" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/glassdoor/shortest-path-from-to-in-matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cracking-the-coding-interview/part-00" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/412-fizz-buzz" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
