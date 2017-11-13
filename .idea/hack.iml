@@ -111,6 +111,7 @@
       <sourceFolder url="file://$MODULE_DIR$/glassdoor/shortest-path-from-to-in-matrix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/cracking-the-coding-interview/part-00" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/412-fizz-buzz" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/724-find-pivot-index" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
