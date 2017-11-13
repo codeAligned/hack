@@ -112,6 +112,8 @@
       <sourceFolder url="file://$MODULE_DIR$/cracking-the-coding-interview/part-00" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/412-fizz-buzz" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/724-find-pivot-index" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/716-max-stack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/328-odd-even-linked-list" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
