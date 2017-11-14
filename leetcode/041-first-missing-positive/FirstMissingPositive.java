@@ -2,6 +2,7 @@ public class FirstMissingPositive {
     public int firstMissingPositive(int[] nums) {
         int n = nums.length;
 
+        // max num in an array is always = n max
         for (int i = 0; i < n; i++) {
             int index = nums[i] - 1;
 
