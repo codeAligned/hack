@@ -3,6 +3,7 @@ public class FirstMissingPositive {
         int n = nums.length;
 
         // max num in an array is always = n max
+        // discussion https://discuss.leetcode.com/topic/315/why-most-people-solve-this-problem-under-the-assumption-a-i-n/5
         for (int i = 0; i < n; i++) {
             int index = nums[i] - 1;
 
