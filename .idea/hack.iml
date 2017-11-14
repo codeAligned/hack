@@ -119,6 +119,7 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/041-first-missing-positive" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/203-remove-linked-list-elements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/462-minimum-moves-to-equal-array-elements-ii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/423-reconstruct-original-digits-from-english" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
