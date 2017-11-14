@@ -115,6 +115,8 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode/716-max-stack" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/328-odd-even-linked-list" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/179-largest-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/129-sum-root-to-leaf-numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/041-first-missing-positive" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
