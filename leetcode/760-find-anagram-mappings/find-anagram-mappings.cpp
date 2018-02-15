@@ -10,7 +10,7 @@ public:
             if (got == bmap.end()) {
                 vector<int> v = { i };
 
-                bmap.insert(std::make_pair(B[i], v));
+                bmap.insert(make_pair(B[i], v));
             } else {
                 got->second.push_back(i);
             }
