@@ -43,6 +43,6 @@ public:
       }
     }
 
-    return allIntervals;
+    return result;
   }
 };
