@@ -13,7 +13,7 @@ public:
       order[s[i] - 'a'] = i;
     }
 
-    sort(t.begin(), t.end(), [&order](char a, char b) { return order[a - 'a'] < order[b - 'a']; });
+    std::sort(t.begin(), t.end(), [&order](char a, char b) { return order[a - 'a'] < order[b - 'a']; });
 
     return t;
   }
