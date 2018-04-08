@@ -73,6 +73,16 @@ const lest::test hicalTests[] = {
       std::vector<Meeting> expected = {Meeting(1, 6), Meeting(8, 10), Meeting(15, 18)};
       EXPECT(actual == expected);
     },
+    CASE("(0, 1), (1, 2), (2, 3) = (0, 3)"){
+      std::vector<Meeting> actual = mergeRanges(std::vector<Meeting>{Meeting(0, 1), Meeting(1, 2), Meeting(2, 3)});
+      std::vector<Meeting> expected = {Meeting(0, 3)};
+      EXPECT(actual == expected);
+    },
+    CASE("(0, 1), (0, 1), (1, 2), (2, 3) = (0, 3)"){
+      std::vector<Meeting> actual = mergeRanges(std::vector<Meeting>{Meeting(0, 1), Meeting(0, 1), Meeting(1, 2), Meeting(2, 3)});
+      std::vector<Meeting> expected = {Meeting(0, 3)};
+      EXPECT(actual == expected);
+    },
 };
 
 int main(int argc, char *argv[]) { return lest::run(hicalTests, argc, argv); }
