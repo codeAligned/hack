@@ -53,6 +53,11 @@ const lest::test productOfOtherNumbersTests[] = {
     int expected = 27;
     EXPECT(actual == expected);
   },
+  CASE("{3, -3, -3} = 27") {
+    int actual = highestProductOf3({-3, -3, 3});
+    int expected = 27;
+    EXPECT(actual == expected);
+  },
   CASE("{1, 2, 3} = 6") {
     int actual = highestProductOf3({1, 2, 3});
     int expected = 6;
