@@ -1,3 +1,18 @@
 {
-  "files.associations": {}
+  "files.associations": {
+    "random": "cpp",
+    "__bit_reference": "cpp",
+    "algorithm": "cpp",
+    "bitset": "cpp",
+    "chrono": "cpp",
+    "map": "cpp",
+    "set": "cpp",
+    "__string": "cpp",
+    "__tree": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "__split_buffer": "cpp",
+    "deque": "cpp",
+    "vector": "cpp"
+  }
 }

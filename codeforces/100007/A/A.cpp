@@ -4,8 +4,10 @@
 int main(int argc, char * argv[]) {
   std::ios_base::sync_with_stdio (false);
 
-  freopen("input.txt", "r", stdin);
-  freopen("output.txt", "w", stdout);
+  #ifdef ONLINE_JUDGE
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
+  #endif
 
   int n, m, k;
 
