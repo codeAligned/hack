@@ -1,3 +1,4 @@
+#include <array>
 #include <iostream>
 #include <iterator>
 #include <climits>
@@ -6,46 +7,48 @@
 
 #include "../../../vendor/lest.hpp"
 
-int arrayCombinations(const std::vector<int>& v, std::vector<int>::size_type i) {
-  if (i == v.size()) {
+template<std::size_t SIZE>
+int arrayCombinations(const std::array<int, SIZE>& arr, std::size_t i) {
+  if (i == SIZE) {
     return 1;
   }
 
-  int included = arrayCombinations(v, i + 1);
-  int excluded = arrayCombinations(v, i + 1);
+  int included = arrayCombinations(arr, i + 1);
+  int excluded = arrayCombinations(arr, i + 1);
 
   return included + excluded;
 }
 
-int arrayCombinations(const std::vector<int>& v) {
-  return arrayCombinations(v, 0);
+template<std::size_t SIZE>
+int arrayCombinations(const std::array<int, SIZE>& arr) {
+  return arrayCombinations(arr, 0);
 }
 
 const lest::test arrayCombinationsTests[] = {
   CASE("{} = 1") {
-    std::vector<int> v = {};
-    int actual = arrayCombinations(v);
+    std::array<int, 0> arr;
+    int actual = arrayCombinations(arr);
     int expected = 1;
     EXPECT(actual == expected);
   },
 
   CASE("{1} = 2") {
-    std::vector<int> v = { 1 };
-    int actual = arrayCombinations(v);
+    std::array<int, 1> arr = { 1 };
+    int actual = arrayCombinations(arr);
     int expected = 2;
     EXPECT(actual == expected);
   },
 
   CASE("{1, 1} = 4") {
-    std::vector<int> v = { 1, 1 };
-    int actual = arrayCombinations(v);
+    std::array<int, 2> arr = { 1, 1 };
+    int actual = arrayCombinations(arr);
     int expected = 4;
     EXPECT(actual == expected);
   },
 
   CASE("{1, 1, 1, 1, 1} = 32") {
-    std::vector<int> v = { 1, 1, 1, 1, 1 };
-    int actual = arrayCombinations(v);
+    std::array<int, 5> arr = { 1, 1, 1, 1, 1 };
+    int actual = arrayCombinations(arr);
     int expected = 32;
     EXPECT(actual == expected);
   },
