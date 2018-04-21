@@ -16,6 +16,7 @@ int main(int argc, char * argv[]) {
 
   if (argc <= 1) {
     show_usage();
+    return 1;
   } else {
     std::istringstream iss(argv[1]);
 
@@ -23,9 +24,11 @@ int main(int argc, char * argv[]) {
 
     if (!(iss >> n)) {
       show_usage();
+      return 1;
     } else {
       std::cout << f(n) << std::endl;
     }
   }
+
   return 0;
 }
