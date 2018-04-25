@@ -1,5 +1,16 @@
-# My solutions to HackerRank, LeetCode, Cracking The Coding Interview, CodeFights and JavaScript.info problems
+# Coding Practice
 
-Did solutions in different periods, so repo includes solutions in multiple languages.
+* Learning new languages
+* Learning new tech
+* Competitive Programming
+* Interviews Preparation
 
-Right now, I'm writing code mostly in Java or JavaScript, sometimes Go or Python for ML stuff.
+## Interview Tips
+
+### Dynamic Programming
+
+* [Coding Interview Mastery: Dynamic Programming](https://students.byte-by-byte.com/courses/dynamic-programming/) - in my opinion, the best Dynamic Programming course, it's been once recommended to me by my friend
+
+### Behavioural Interviews
+
+* [Intro to Behavioural Interviews by Jackson Gabbard](https://www.youtube.com/watch?v=PJKYqLP6MRE)
