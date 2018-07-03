@@ -14,3 +14,4 @@
 ### Behavioural Interviews
 
 * [Intro to Behavioural Interviews by Jackson Gabbard](https://www.youtube.com/watch?v=PJKYqLP6MRE)
+* [Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70)
