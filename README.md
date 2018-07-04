@@ -7,6 +7,10 @@
 
 ## Interview Tips
 
+### Useful Algorithms and Systems Design Interview Courses
+
+* [Hired in Tech](https://www.hiredintech.com/)
+
 ### Dynamic Programming
 
 * [Coding Interview Mastery: Dynamic Programming](https://students.byte-by-byte.com/courses/dynamic-programming/) - in my opinion, the best Dynamic Programming course, it's been once recommended to me by my friend
