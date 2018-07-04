@@ -19,3 +19,7 @@
 
 * [Intro to Behavioural Interviews by Jackson Gabbard](https://www.youtube.com/watch?v=PJKYqLP6MRE)
 * [Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70)
+
+### Questions after interviews
+
+* [What are the best questions to ask a potential employer in a job interview?](https://www.quora.com/What-are-the-best-questions-to-ask-a-potential-employer-in-a-job-interview)
