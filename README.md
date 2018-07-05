@@ -27,3 +27,10 @@
 ### Questions after interviews
 
 * [What are the best questions to ask a potential employer in a job interview?](https://www.quora.com/What-are-the-best-questions-to-ask-a-potential-employer-in-a-job-interview)
+
+## Resources
+
+### Mock Interviews
+
+* [Unscripted Video Interviews by CareerCup](https://careercup.com/video)
+* [Mock Interviews by CareerCup](https://careercup.com/interview)
