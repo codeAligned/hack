@@ -1,5 +1,7 @@
 # Coding Practice
 
+## Goals
+
 * Learning new languages
 * Learning new tech
 * Competitive Programming
