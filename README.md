@@ -11,6 +11,10 @@
 
 * [Hired in Tech](https://www.hiredintech.com/)
 
+### Systems Design
+
+* [Jobs Executor Interview Question](https://docs.google.com/document/d/190Ik3yauub4spoSFRldclBuwjyXuk7RLyxf1GFpPk_U/edit)
+
 ### Dynamic Programming
 
 * [Coding Interview Mastery: Dynamic Programming](https://students.byte-by-byte.com/courses/dynamic-programming/) - in my opinion, the best Dynamic Programming course, it's been once recommended to me by my friend
