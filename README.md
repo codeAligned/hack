@@ -44,3 +44,7 @@
 #### People who worked at Google
 
 * [Dima Korolev @ Quora](https://www.quora.com/profile/Dima-Korolev/answers/Google-company-5)
+
+## In Russian
+
+* [Блог Ларисы, Software Engineer в Google](http://larrr.com/)
