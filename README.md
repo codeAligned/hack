@@ -36,3 +36,11 @@
 
 * [Unscripted Video Interviews by CareerCup](https://careercup.com/video)
 * [Mock Interviews by CareerCup](https://careercup.com/interview)
+
+## Companies
+
+### Google
+
+#### People who worked at Google
+
+* [Dima Korolev @ Quora](https://www.quora.com/profile/Dima-Korolev/answers/Google-company-5)
