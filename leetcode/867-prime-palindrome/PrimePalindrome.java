@@ -8,6 +8,7 @@ class Solution {
 
     int nDigits = (int)Math.floor(Math.log10(Math.abs(N))) + 1;
 
+    // optimization = we know that there's no prime palindrome with even number of digits beside 11
     if (nDigits > 2 && nDigits % 2 == 0) {
       min = (long)Math.pow(10, nDigits);
     }
@@ -18,6 +19,7 @@ class Solution {
       long x = current;
       long reversed = 0;
 
+      // TODO break earlier here
       while(x > 0) {
         reversed = reversed * 10;
         reversed = reversed + x % 10;
