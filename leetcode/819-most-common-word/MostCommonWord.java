@@ -20,13 +20,15 @@ class Solution {
       node.isWord = true;
     }
 
-
     Map<String, Integer> map = new HashMap<>();
 
     int size = paragraph.length();
 
+    String maxFreqWord = "";
+    int maxFreq = 0;
+
     for (int i = 0; i < size; i++) {
-      StringBuffer sb = new StringBuffer();
+      StringBuilder sb = new StringBuilder();
 
       char c = paragraph.charAt(i);
 
@@ -52,11 +54,20 @@ class Solution {
         }
 
         if (node == null || !node.isWord) {
-          map.merge(word, 1, Integer::sum);
+          Integer curFreq = map.get(word);
+
+          curFreq = curFreq == null ? 1 : curFreq + 1;
+
+          if (curFreq > maxFreq) {
+            maxFreq = curFreq;
+            maxFreqWord = word;
+          }
+
+          map.put(word, curFreq);
         }
       }
     }
 
-    return Collections.max(map.entrySet(), Map.Entry.comparingByValue()).getKey();
+    return maxFreqWord;
   }
 }
