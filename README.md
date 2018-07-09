@@ -15,6 +15,12 @@
 
 ### Systems Design
 
+#### White Papers
+
+* [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+
+#### Solutions
+
 * [Jobs Executor Interview Question](https://docs.google.com/document/d/190Ik3yauub4spoSFRldclBuwjyXuk7RLyxf1GFpPk_U/edit)
 
 ### Dynamic Programming
