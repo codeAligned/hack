@@ -15,6 +15,7 @@
 
 ### Systems Design
 
+* [AllThingsDistributed.com - Blog of Werner Vogels, CTO - Amazon.com](https://www.allthingsdistributed.com/)
 * [Eventually Consistent Model](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
 
 #### White Papers
