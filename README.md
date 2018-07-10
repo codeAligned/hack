@@ -20,8 +20,10 @@
 * [AllThingsDistributed.com - Blog of Werner Vogels, CTO - Amazon.com](https://www.allthingsdistributed.com/)
 
 #### Eventual Consistency model
+
 * [Eventually Consistent](https://www.allthingsdistributed.com/2007/12/eventually_consistent.html)
 * [Eventually Consistent Model](https://www.allthingsdistributed.com/2008/12/eventually_consistent.html)
+* [C* Summit 2013: Eventual Consistency != Hopeful Consistency by Christos Kalantzis (Netflix Inc.)](https://www.slideshare.net/planetcassandra/c-summit-2013-eventual-consistency-hopeful-consistency-by-christos-kalantzis)
 
 #### White Papers
 
