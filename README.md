@@ -29,6 +29,7 @@
 
 * [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 * [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
+* [Cassandra, annotated](https://docs.datastax.com/en/articles/cassandra/cassandrathenandnow.html)
 
 #### Solutions
 
