@@ -7,6 +7,12 @@
 * Competitive Programming
 * Interviews Preparation
 
+## Basics
+
+###
+
+* [Java Limit for Recursions](http://iwillgetthatjobatgoogle.tumblr.com/post/32389142173/java-limit-for-recursion)
+
 ## Interview Tips
 
 ### Useful Algorithms and Systems Design Interview Courses
