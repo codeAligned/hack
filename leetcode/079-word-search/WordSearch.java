@@ -17,10 +17,6 @@ class Solution {
 
       visited[i][j] = true;
 
-      char ch = word.charAt(position);
-
-      boolean found = false;
-
       for (int k = 0; k < 4; k++) {
           int x = i + dirs[k][0];
           int y = j + dirs[k][1];
@@ -39,13 +35,13 @@ class Solution {
       int N = board.length;
       int M = board[0].length;
 
+      boolean[][] visited = new boolean[N][M];
+
       char ch = word.charAt(0);
 
       for (int i = 0; i < N; i++) {
           for (int j = 0; j < M; j++) {
               if (board[i][j] == ch) {
-                  boolean[][] visited = new boolean[N][M];
-
                   if (dfs(board, word, 0, i, j, visited)) {
                       return true;
                   }
