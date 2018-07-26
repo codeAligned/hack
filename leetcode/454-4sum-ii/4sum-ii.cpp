@@ -21,7 +21,7 @@ public:
             for (int j = 0; j < N; j++) {
                 int sum = -C[i] -D[j];
 
-                if (m[sum] > 0) {
+                if (m.find(sum) != m.end()) {
                     result += m[sum];
                 }
             }
